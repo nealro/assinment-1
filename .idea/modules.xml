@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/assinment 2/assinment 2.iml" filepath="$PROJECT_DIR$/assinment 2/assinment 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assinment 3/assinment 3.iml" filepath="$PROJECT_DIR$/assinment 3/assinment 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/assinment-1.iml" filepath="$PROJECT_DIR$/.idea/assinment-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotdog/hotdog.iml" filepath="$PROJECT_DIR$/hotdog/hotdog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem 1/problem 1.iml" filepath="$PROJECT_DIR$/problem 1/problem 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem2/problem2.iml" filepath="$PROJECT_DIR$/problem2/problem2.iml" />
+    </modules>
+  </component>
+</project>
